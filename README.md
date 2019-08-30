@@ -287,10 +287,10 @@ The `git clone` command downloads an existing repository to your local machine. 
     * Add `README.md` to the staging area
     * Add `answers.md` to the staging area
      * Push your changes to GitHub
-    * Go to your repository on GitHub and tag me `@nasseef` in the comment section of the commit.
+    * Go to your repository on GitHub and tag your TA `@<TA's user name>` in the comment section of the commit.
       * Click on `commits`
       * Click on the last commit (top one)
-      * Scroll down to the comment section and tag me by entering `@nasseef, I'm done`
+      * Scroll down to the comment section and tag me by entering `@<TA's user name>, I'm done`
       * Click on the button: `Comment on this commit`
 
 
