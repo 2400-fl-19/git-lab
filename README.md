@@ -239,7 +239,7 @@ The `git clone` command downloads an existing repository to your local machine. 
     * Go to the new repo's directory and issue the `ls -a` command. Record the output as **`Answer 13`**.
     * The file `.gitignore` has a list of files that `git` will ignore when pushing the repo. For example, it ignores executable files.
 
-15. (35 points) Lets create a C++ program in `git-lab2` reposidtory and update the online master branch.
+15. (35 points) Lets create a C++ program in `git-lab2` repository and update the online master branch.
 
     * In your editor, create the file `git-lab-program.cc`.
     * Copy the following code into it
@@ -286,7 +286,7 @@ The `git clone` command downloads an existing repository to your local machine. 
     * Make sure the files `README.md` and `answers.md` are saved
     * Add `README.md` to the staging area
     * Add `answers.md` to the staging area
-     * Push your changes to GitHub
+     * Commit and push your changes to GitHub
     * Go to your repository on GitHub and tag your TA `@<TA's user name>` in the comment section of the commit.
       * Click on `commits`
       * Click on the last commit (top one)
