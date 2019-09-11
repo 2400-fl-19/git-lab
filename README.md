@@ -49,7 +49,7 @@ Git is a free and open source tool (collection of commands) that is used for ver
     ```
     Record the output of the command as **`Answer 1`**.
 
-4. Git needs to know your information (name and email). Issue the commands:
+4. Git needs to know your credentials (name and email). Issue the commands:
 
     ```console
     git config --global user.name "Your name"
